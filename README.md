@@ -1,7 +1,7 @@
 # Normalizer
 A simple script in python which you can use to normalize audio files. It is made basically by calling sox, rm and mv commands through the command line.
 
-This script has to be placed in the root directory where you have the files which you want to normalize. At this moment, it only normalizes mp3 files, but you can include other formats.
+This script has to be placed in the root directory where you have the files which you want to normalize. At this moment, it only normalise mp3 files, but you can include other formats.
 
 The requirements to use this script are:
 
