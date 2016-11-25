@@ -7,6 +7,6 @@ The requirements to use this script are:
 
 * Python.
 * sox.
-* Linux
+* Linux.
 
 Notes: The script does not change the folder structure neither the filenames. The script enters recursively into all the directories under the root one.
